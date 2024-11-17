@@ -1,43 +1,36 @@
-Descrição do desafio módulo 3 – Processamento de Dados Simplificado com Power BI
+# 📊 **DIO - Python Data Analytics**
 
-1. Criação de uma instância na Azure para MySQL ✔️
+Bem-vindo ao repositório **DIO - Python Data Analytics**, desenvolvido durante os cursos da **Digital Innovation One** para explorar conceitos de análise de dados com Python. Este repositório reúne exemplos práticos e scripts voltados para manipulação, visualização e análise de dados.
 
-2. Criar o Banco de dados com base disponível no github ✔️
+---
 
-3. Integração do Power BI com MySQL no Azure ✔️
+## 🛠 **Tecnologias e Bibliotecas Utilizadas**
+- **Python** 🐍 - Linguagem principal para análise de dados.  
+- **Pandas** 📋 - Manipulação e análise de dados tabulares.  
+- **NumPy** 🔢 - Cálculos matemáticos e vetorização.  
+- **Matplotlib** 📊 - Criação de gráficos e visualizações básicas.  
+- **Seaborn** 🌊 - Visualização de dados com gráficos estilizados.  
+- **Jupyter Notebook** 📒 - Ambiente interativo para escrever e executar códigos.
 
-4. Verificar problemas na base a fim de realizar a transformação dos dados ✔️
+---
 
-Diretrizes para transformação dos dados
+## 🚀 **Objetivos do Projeto**
+- Manipular e explorar datasets com **Pandas**.  
+- Criar visualizações intuitivas usando **Matplotlib** e **Seaborn**.  
+- Aplicar boas práticas no fluxo de análise de dados, desde a preparação até a apresentação de insights.
 
-1. Verifique os cabeçalhos e tipos de dados ✔️
+---
 
-2. Modifique os valores monetários para o tipo double preciso ✔️
+## 📂 **Estrutura do Repositório**
+- **`datasets/`**: Contém os arquivos de dados utilizados nos exemplos.  
+- **`notebooks/`**: Notebooks com exercícios e projetos práticos.  
+- **`requirements.txt`**: Lista de dependências necessárias para rodar o projeto.
 
-3. Verifique a existência dos nulos e analise a remoção ✔️
+---
 
-4. Os employees com nulos em Super_ssn podem ser os gerentes. Verifique se há algum colaborador sem gerente ✔️ R: 1 apenas
-
-5. Verifique se há algum departamento sem gerente ✔️
-
-6. Se houver departamento sem gerente, suponha que você possui os dados e preencha as lacunas ✔️
-
-7. Verifique o número de horas dos projetos ✔️
-
-8. Separar colunas complexas ✔️
-
-9. Mesclar consultas employee e departament para criar uma tabela employee com o nome dos departamentos associados aos colaboradores. A mescla terá como base a tabela employee. Fique atento, essa informação influencia no tipo de junção ✔️
-
-10. Neste processo elimine as colunas desnecessárias. ✔️
-
-11. Realize a junção dos colaboradores e respectivos nomes dos gerentes . Isso pode ser feito com consulta SQL ou pela mescla de tabelas com Power BI. Caso utilize SQL, especifique no README a query utilizada no processo. ✔️
-
-12. Mescle as colunas de Nome e Sobrenome para ter apenas uma coluna definindo os nomes dos colaboradores ✔️
-
-13. Mescle os nomes de departamentos e localização. Isso fará que cada combinação departamento-local seja único. Isso irá auxiliar na criação do modelo estrela em um módulo futuro. ✔️
-
-14. Explique por que, neste caso supracitado, podemos apenas utilizar o mesclar e não o atribuir. ✔️ Por conta dos relacionamentos
-
-15. Agrupe os dados a fim de saber quantos colaboradores existem por gerente ✔️
-
-16. Elimine as colunas desnecessárias, que não serão usadas no relatório, de cada tabela ✔️
+## 📝 **Aprendizados**
+Este projeto proporcionou diversos aprendizados importantes:  
+- Uso eficiente de **Pandas** para manipulação e limpeza de dados.  
+- Aplicação de cálculos matemáticos otimizados com **NumPy**.  
+- Criação de gráficos impactantes e personalizáveis com **Matplotlib** e **Seaborn**.  
+- Importância da apresentação visual de dados para destacar insights valiosos. 
