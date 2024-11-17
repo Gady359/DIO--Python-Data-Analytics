@@ -21,13 +21,6 @@ Bem-vindo ao repositório **DIO - Python Data Analytics**, desenvolvido durante 
 
 ---
 
-## 📂 **Estrutura do Repositório**
-- **`datasets/`**: Contém os arquivos de dados utilizados nos exemplos.  
-- **`notebooks/`**: Notebooks com exercícios e projetos práticos.  
-- **`requirements.txt`**: Lista de dependências necessárias para rodar o projeto.
-
----
-
 ## 📝 **Aprendizados**
 Este projeto proporcionou diversos aprendizados importantes:  
 - Uso eficiente de **Pandas** para manipulação e limpeza de dados.  
