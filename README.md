@@ -1,29 +1,16 @@
-# 📊 **DIO - Python Data Analytics**
+# Python Data Analytics com ETL 🐍📊
 
-Bem-vindo ao repositório **DIO - Python Data Analytics**, desenvolvido durante os cursos da **Digital Innovation One** para explorar conceitos de análise de dados com Python. Este repositório reúne exemplos práticos e scripts voltados para manipulação, visualização e análise de dados.
-
----
-
-## 🛠 **Tecnologias e Bibliotecas Utilizadas**
-- **Python** 🐍 - Linguagem principal para análise de dados.  
-- **Pandas** 📋 - Manipulação e análise de dados tabulares.  
-- **NumPy** 🔢 - Cálculos matemáticos e vetorização.  
-- **Matplotlib** 📊 - Criação de gráficos e visualizações básicas.  
-- **Seaborn** 🌊 - Visualização de dados com gráficos estilizados.  
-- **Jupyter Notebook** 📒 - Ambiente interativo para escrever e executar códigos.
+Este repositório reúne práticas e estudos sobre **ETL (Extract, Transform, Load)** aplicados à análise de dados, utilizando Python e Power BI. Foi desenvolvido como parte de um curso da DIO, com foco na manipulação, transformação e visualização de dados.
 
 ---
 
-## 🚀 **Objetivos do Projeto**
-- Manipular e explorar datasets com **Pandas**.  
-- Criar visualizações intuitivas usando **Matplotlib** e **Seaborn**.  
-- Aplicar boas práticas no fluxo de análise de dados, desde a preparação até a apresentação de insights.
+## 🚀 Objetivo
+
+Aprender e implementar processos de **ETL** para extrair dados de diversas fontes, transformá-los conforme as necessidades de análise e carregá-los em formatos prontos para visualizações interativas no Power BI.
 
 ---
 
-## 📝 **Aprendizados**
-Este projeto proporcionou diversos aprendizados importantes:  
-- Uso eficiente de **Pandas** para manipulação e limpeza de dados.  
-- Aplicação de cálculos matemáticos otimizados com **NumPy**.  
-- Criação de gráficos impactantes e personalizáveis com **Matplotlib** e **Seaborn**.  
-- Importância da apresentação visual de dados para destacar insights valiosos. 
+## 🛠️ Tecnologias Utilizadas
+
+- **Linguagem:** Python  
+- **Ferramentas de Visualização:** Power BI  
